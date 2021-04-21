@@ -18,4 +18,10 @@ This is a basic Python application developed using Tkinter. It's not a real medi
 
 *Python | Event Driven Programming | Tkinter*
 
-This is python application developed using Tkinter. This apps allows one to search all text files within a specified directory for a specified string. This saves results to a listbox, as well as a CSV. This is very basic, but may be built upon in the future.
+This is a python application developed using Tkinter. This apps allows one to search all text files within a specified directory for a specified string. This saves results to a listbox, as well as a CSV. This is very basic, but may be built upon in the future.
+
+## [ASCII Art](https://github.com/ABZ-Aaron/ASCII)
+
+*Python | PIL*
+
+This is a python script which can convert a normal image into ASCII-Art. It was completed as a guided project to help develop my skills in Python.
