@@ -13,3 +13,9 @@ The files here allow one to run a Stroop Task on multiple participants, before r
 *Python | Object Orientated Programming | Event Driven Programming | Tkinter*
 
 This is a basic Python application developed using Tkinter. It's not a real media app, as the project was more intended to as practice. Specifically this helped me gain an appreciation of event driven and object orientated programming. 
+
+[File Search](https://github.com/ABZ-Aaron/FileSearch/)
+
+*Python | Event Driven Programming*
+
+This is python application developed using Tkinter. This apps allows one to search all text files within a specified directory for a specified string. This saves results to a listbox, as well as a CSV. This is very basic, but may be built upon in the future.
