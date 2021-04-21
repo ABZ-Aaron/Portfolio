@@ -16,6 +16,6 @@ This is a basic Python application developed using Tkinter. It's not a real medi
 
 [File Search](https://github.com/ABZ-Aaron/FileSearch/)
 
-*Python | Event Driven Programming*
+## *Python | Event Driven Programming*
 
 This is python application developed using Tkinter. This apps allows one to search all text files within a specified directory for a specified string. This saves results to a listbox, as well as a CSV. This is very basic, but may be built upon in the future.
