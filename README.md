@@ -25,3 +25,9 @@ This is a python application developed using Tkinter. This apps allows one to se
 *Python | PIL*
 
 This is a python script which can convert a normal image into ASCII-Art. It was completed as a guided project to help develop my skills in Python.
+
+## [DataQuest Data Engineering](https://github.com/ABZ-Aaron/DataQuestDE)
+
+*Python | SQL*
+
+This contains a series of projects I have completed as part of the Data Engineering track via DataQuest (in progress).
