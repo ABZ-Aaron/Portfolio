@@ -8,6 +8,12 @@ This contains some projects that make up part of my portfolio. Enjoy!
 
 The files here allow one to run a Stroop Task on multiple participants, before running a basic analysis on the results. This was one of the first Python projects I worked on with minimal tutorials or assistance. It was here that I learned how to program, and began to develop some proficiency with Python. 
 
+## [DataQuest Data Engineering](https://github.com/ABZ-Aaron/DataQuestDE)
+
+*Python | SQL | Pandas*
+
+This contains a series of projects I have completed as part of the Data Engineering track via DataQuest (in progress).
+
 ## [Mock Media App](https://github.com/ABZ-Aaron/MediaApp)
 
 *Python | Object Orientated Programming | Event Driven Programming | Tkinter*
@@ -25,9 +31,3 @@ This is a python application developed using Tkinter. This apps allows one to se
 *Python | PIL*
 
 This is a python script which can convert a normal image into ASCII-Art. It was completed as a guided project to help develop my skills in Python.
-
-## [DataQuest Data Engineering](https://github.com/ABZ-Aaron/DataQuestDE)
-
-*Python | SQL*
-
-This contains a series of projects I have completed as part of the Data Engineering track via DataQuest (in progress).
