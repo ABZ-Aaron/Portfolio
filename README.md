@@ -14,6 +14,12 @@ The files here allow one to run a Stroop Task on multiple participants, before r
 
 This contains a series of projects I have completed as part of the Data Engineering track via DataQuest (in progress).
 
+## [SQL Twitter Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials)
+
+*SQL*
+
+This contains a series of basic SQL tutorials I've been publishing on Twitter.
+
 ## [Mock Media App](https://github.com/ABZ-Aaron/MediaApp)
 
 *Python | Object Orientated Programming | Event Driven Programming | Tkinter*
