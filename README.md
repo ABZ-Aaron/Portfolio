@@ -2,6 +2,12 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
+## [Flask Mega Tutorial](https://github.com/ABZ-Aaron/Microblog)
+
+*Python | Flask | HTML | CSS*
+
+This is a mega tutorial I am completing on Flask. Still in progress...
+
 ## [Psychology Experiment](https://github.com/ABZ-Aaron/Experiment)
 
 *Python | PsychoPy*
