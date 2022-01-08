@@ -2,6 +2,12 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
+## [100 Days of Code Pipeline with Tweepy](https://github.com/ABZ-Aaron/DaysOfCode)
+
+*Python
+
+This is one I'm currently working on. The idea is to extract hashtag data using Twitter's API, load this into a CSV or database, and use tools like Airflow to automate the process, and setup a dashboard.
+
 ## [Flask Mega Tutorial](https://github.com/ABZ-Aaron/Microblog)
 
 *Python | Flask | Unit Testing | SQLite | SQLAlchemy | HTML | CSS*
