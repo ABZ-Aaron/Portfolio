@@ -2,6 +2,12 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
+## [Data Engineering Bootcamp](https://github.com/ABZ-Aaron/DataEngineerZoomCamp)
+
+*Python | PostgreSQL | Docker | Terraform | Google Cloud Platform | Kafka*
+
+This is an online zoomcamp/bootcamp I've recently started. Can't say it's been easy, but this is providing a great opportunity for me to develop my skills, and learn a ton of new technologies and tools.
+
 ## [100 Days of Code Pipeline with Tweepy](https://github.com/ABZ-Aaron/DaysOfCode)
 
 *Python
