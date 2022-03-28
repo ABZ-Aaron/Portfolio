@@ -2,17 +2,17 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
+## [Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
+
+*Python | SQL | Docker | Airflow | AWS | DBT*
+
+This is a personal project I worked on after completing a Data Engineering **Zoomcamp**. The purpose was to build a data pipeline, and develop basic skills across a range of technologies.
+
 ## [Data Engineering Bootcamp](https://github.com/ABZ-Aaron/DataEngineerZoomCamp)
 
 *Python | PostgreSQL | Docker | Terraform | Google Cloud Platform | Kafka*
 
 This is an online zoomcamp/bootcamp I've recently started. Can't say it's been easy, but this is providing a great opportunity for me to develop my skills, and learn a ton of new technologies and tools.
-
-## [100 Days of Code Pipeline with Tweepy](https://github.com/ABZ-Aaron/DaysOfCode)
-
-*Python
-
-This is one I'm currently working on. The idea is to extract hashtag data using Twitter's API, load this into a CSV or database, and use tools like Airflow to automate the process, and setup a dashboard.
 
 ## [SQL Twitter Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials)
 
