@@ -42,12 +42,6 @@ This is a basic Python application developed using Tkinter. It's not a real medi
 
 This is where I store various cheatsheets that I've created to help my followers on Twitter and LinkedIn.
 
-## [DataQuest Data Engineering](https://github.com/ABZ-Aaron/DataQuestDE)
-
-*Python | SQL | Pandas*
-
-This contains a series of projects I have completed as part of the Data Engineering track via DataQuest (in progress).
-
 ## [File Search](https://github.com/ABZ-Aaron/FileSearch/)
 
 *Python | Event Driven Programming | Tkinter*
