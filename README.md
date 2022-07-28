@@ -2,17 +2,23 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
+## [CoinCap API Pipeline](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+
+*Python | PostgreSQL | Docker | cron | Metabase | AWS *
+
+This is a personal project I've been working on. The aim was to build a simple data pipeline, extracting real-time currency data, loading in a database, and visualising with Metabase.
+
 ## [Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
 
-*Python | SQL | Docker | Airflow | AWS | DBT*
+*Python | SQL | Docker | Airflow | AWS | Google Data Studio | DBT | Terraform*
 
-This is a personal project I worked on after completing a Data Engineering **Zoomcamp**. The purpose was to build a data pipeline, and develop basic skills across a range of technologies.
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
 ## [Data Engineering Bootcamp](https://github.com/ABZ-Aaron/DataEngineerZoomCamp)
 
 *Python | PostgreSQL | Docker | Terraform | Google Cloud Platform | Kafka*
 
-This is an online zoomcamp/bootcamp I've recently started. Can't say it's been easy, but this is providing a great opportunity for me to develop my skills, and learn a ton of new technologies and tools.
+This is an online zoomcamp/bootcamp I've recently completed. This was a great opportunity for me to develop my skills, and learn new technologies and tools.
 
 ## [SQL Twitter Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials)
 
