@@ -4,9 +4,9 @@ This contains some projects that make up part of my portfolio. Enjoy!
 
 ## [CoinCap API Pipeline](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
-*Python | PostgreSQL | Docker | cron | Metabase | AWS *
+*Python | PostgreSQL | Docker | cron | Metabase | AWS*
 
-This is a personal project I've been working on. The aim was to build a simple data pipeline, extracting real-time currency data, loading in a database, and visualising with Metabase.
+This is a personal project I've been working on. The aim was to build a simple data pipeline, extracting real-time currency data, loading to a database, and visualising with Metabase.
 
 ## [Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
 
@@ -18,7 +18,7 @@ This is a personal project I've been working on. The aim was to build a data pip
 
 *Python | PostgreSQL | Docker | Terraform | Google Cloud Platform | Kafka*
 
-This is an online zoomcamp/bootcamp I've recently completed. This was a great opportunity for me to develop my skills, and learn new technologies and tools.
+This is an online zoomcamp/bootcamp I recently completed. This was a great opportunity for me to develop my skills, and learn new technologies and tools. I tracked most of my progress here.
 
 ## [SQL Twitter Tutorials](https://github.com/ABZ-Aaron/SQL-Tutorials)
 
@@ -42,7 +42,7 @@ The files here allow one to run a Stroop Task on multiple participants, before r
 
 *Python | Object Orientated Programming | Event Driven Programming | Tkinter*
 
-This is a basic Python application developed using Tkinter. It's not a real media app, as the project was more intended to as practice. Specifically this helped me gain an appreciation of event driven and object orientated programming. 
+This is a basic Python application developed using Tkinter. It's not a real media app, as the project was more intended to act as practice. This helped me gain an appreciation of event driven and object orientated programming. 
 
 ## [Cheatsheets](https://github.com/ABZ-Aaron/CheatSheets)
 
